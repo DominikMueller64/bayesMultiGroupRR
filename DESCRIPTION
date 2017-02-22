@@ -1,0 +1,12 @@
+Package: bayesMultiGroupRR
+Title: Fit a multi-group bayesian hierarchical random regression model for genomic prediction.
+Version: 0.0.0.9000
+Authors@R: person("Dominik", "Muelle", email = "dominikmueller64@yahoo.de", role = c("aut", "cre"))
+Description: Fit a multi-group bayesian hierarchical random regression model for genomic prediction.
+Depends: R (>= 3.3.2), rstan(>= 2.14.1)
+License: GPL (>= 3) 
+Encoding: UTF-8
+LazyData: true
+Imports: rstan
+Suggests: purrr, mvtnorm
+RoxygenNote: 6.0.1
